@@ -35,6 +35,7 @@ DCL
 
 
 TCL
+
  • TCL stands for Transaction Control Language. TCL commands are generally used in transactions.
  
  • Using TCL commands in SQL, we can save our transactions to the database using COMMIT and roll them back to a specific point in our transaction using ROLLBACK. We can also save a particular portion of our transaction using the SAVEPOINT command.
